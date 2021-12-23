@@ -12,7 +12,7 @@ Führe das Skript aus, um Kali nach einer frischen Installation anzupassen.
 
 ## Installation
 
-`sudo -i`
-`git clone https://github.com/ptestical/kali; cd kali; chmod +x back-mir-ein-kali.sh; bash back-mir-ein-kali.sh`
+```sudo -i```
+```git clone https://github.com/ptestical/kali; cd kali; chmod +x back-mir-ein-kali.sh; bash back-mir-ein-kali.sh```
 
 Und das war's!
