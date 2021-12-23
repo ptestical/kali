@@ -21,8 +21,8 @@ passwd
 
 # System updaten, gedit/dirsearch installieren
 sudo apt-get update
-sudo apt-get install gedit
-sudo apt-get install dirsearch
+sudo apt-get install gedit -y
+sudo apt-get install dirsearch -y
 
 # relevante Tools für Pentest
 sudo git clone https://github.com/carlospolop/PEASS-ng /opt/privilege_escalation
